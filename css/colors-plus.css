@@ -1,0 +1,27 @@
+#adminmenu a.menu-top {
+border-width: 1px 0 0 0;
+border-color: #ffffff;
+border-style: solid none;
+background: #eeeeee;
+}
+
+#adminmenu {
+margin: 0;
+}
+
+#wpadminbar {
+background: #464646 !important;
+}
+
+/* 
+Changes in colors.min.css: 2 replaces (Plus sign)
+
+Color changes in colors.min.css
+Link:
+#0074a2 -> #21759b  (15 replaced)
+Link hover:
+#0099d5 -> #d54e21  (3 replaced)
+Button:
+background: #04a4cc -> #21759b (23 replaced)
+border-color: #037c9a -> #21759b (2 replaced)
+*/
