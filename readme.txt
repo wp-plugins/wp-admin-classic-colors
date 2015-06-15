@@ -3,8 +3,8 @@ Contributors: WebshopLogic
 Donate link: http://webshoplogic.com/donation-wp-admin-classic-colors/
 Tags: WP Admin Classic Colors, WordPress 3.8, Wordpress 3.7, admin, wordpress admin, color, color scheme, classical view, menu separator, flat view
 Requires at least: 3.8
-Tested up to: 3.8
-Stable tag: 1.0.0
+Tested up to: 4.1.1
+Stable tag: 1.0.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -15,6 +15,10 @@ Add a new admin color scheme to your WP site, similar to WordPress classical lig
 If you installed WordPress 3.8 or above and have not found a color scheme you like, menu items are not quite separated, use this plugin!
 
 This plugin adds a new admin color scheme to your WP site, strikes a balance between earlier classical view and new flat view. Colors are similar to WordPress classical light grey and blue colors of admin page, the new color scheme makes visible menu separators between menu blocks and menu items. 
+
+= Available languages =
+* English
+* Serbo-Croatian - translated by http://webhostinggeeks.com/
 
 == Installation ==
 
@@ -31,6 +35,8 @@ This plugin adds a new admin color scheme to your WP site, strikes a balance bet
 
 == Changelog ==
 
+= 1.0.1 =
+* Add Serbo-Croatian translation
 
 = 1.0.0 =
 * First version

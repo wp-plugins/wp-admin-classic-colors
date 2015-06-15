@@ -1,0 +1,68 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: wacc\n"
+"POT-Creation-Date: 2014-01-08 19:15+0100\n"
+"PO-Revision-Date: 2015-04-30 09:41+0100\n"
+"Last-Translator: Borisa Djuraskovic <borisad@webhostinghub.com>\n"
+"Language-Team: WP Admin Classic Colors\n"
+"Language: EN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: __;_e;_x\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: D:\\wamp\\www\\wp38test\\wp-content\\plugins\\wp-"
+"admin-classic-colors\n"
+
+#: D:\wamp\www\wp38test\wp-content\plugins\wp-admin-classic-colors/wp-admin-classic-colors.php:19
+#: D:\wamp\www\wp38test\wp-content\plugins\wp-admin-classic-colors/wp-admin-classic-colors.php:37
+msgid "WP Admin Classic Colors"
+msgstr "WP Admin Classic Colors"
+
+#: D:\wamp\www\wp38test\wp-content\plugins\wp-admin-classic-colors/wp-admin-classic-colors.php:54
+#: D:\wamp\www\wp38test\wp-content\plugins\wp-admin-classic-colors/wp-admin-classic-colors.php:90
+msgid "General Settings"
+msgstr "Opšta podešavanja"
+
+#: D:\wamp\www\wp38test\wp-content\plugins\wp-admin-classic-colors/wp-admin-classic-colors.php:62
+#: D:\wamp\www\wp38test\wp-content\plugins\wp-admin-classic-colors/wp-admin-classic-colors.php:98
+msgid "Enable WP Admin Classic Colors Plugin"
+msgstr "Aktiviraj WP Admin Classic Colors Plugin"
+
+#: D:\wamp\www\wp38test\wp-content\plugins\wp-admin-classic-colors/wp-admin-classic-colors.php:78
+msgid "WP Admin Classic Colors by WebshopLogic"
+msgstr "WP Admin Classic Colors, autor: WebshopLogic"
+
+#: D:\wamp\www\wp38test\wp-content\plugins\wp-admin-classic-colors/wp-admin-classic-colors.php:112
+msgid ""
+"IMPORTANT: After enable this plugin, go to Users -> Your Profile menu, and "
+"select WP Admin Classic Colors scheme."
+msgstr ""
+"VAŽNO: Nakon aktiviranja ovog dodatka, idite na: Korisnici -> Meni vašeg "
+"profila i odaberite Admin Classic Colors shemu."
+
+#: D:\wamp\www\wp38test\wp-content\plugins\wp-admin-classic-colors/wp-admin-classic-colors.php:141
+msgid "Try out WP Related Items plugin"
+msgstr "Isprobajte naš WP Related Items plugin"
+
+#: D:\wamp\www\wp38test\wp-content\plugins\wp-admin-classic-colors/wp-admin-classic-colors.php:148
+msgid ""
+"WP Related Items plugin makes visible every kind of hidden connections of "
+"your WordPress site for your business."
+msgstr ""
+"WP Related Items plugin čini vašem poslu vidljivim svaku vrstu skrivenih "
+"veza vašeg  WordPress site-a."
+
+#: D:\wamp\www\wp38test\wp-content\plugins\wp-admin-classic-colors/wp-admin-classic-colors.php:149
+msgid ""
+"Would you like to offer some related products to your blog posts? Do you "
+"have an event calendar plugin, and want to suggest some programs connected "
+"to an article? Do you have a custom movie catalog plugin and want to "
+"associate some articles to your movies?"
+msgstr ""
+"Da li biste hteli da ponudite neke odgovarajuće proizvode za vaše blog "
+"postove? Imate li plugin za kalendar događaja i želite li da predložite neke "
+"programe povezane sa člankom? Imate li plugin za prilagođeni katalog filmova "
+"i želite li da svojim filmovima pridružite neke članke?"

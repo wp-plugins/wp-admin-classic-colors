@@ -3,13 +3,13 @@
 Plugin Name: WP Admin Classic Colors
 Plugin URI: http://webshoplogic.com/
 Description: Add a new admin color scheme to your WP site, strikes a balance between earlier classical view and new flat view. Colors are similar to WordPress classical light grey and blue colors of admin page, the new color scheme makes visible menu separators between menu blocks and menu items. 
-Version: 1.0.0
+Version: 1.0.1
 Author: WebshopLogic
 Author URI: http://webshoplogic.com/
 License: GPLv2 or later
 Text Domain: wacc
 Requires at least: 3.8
-Tested up to: 3.8
+Tested up to: 4.1.1.
 */
 
 function additional_admin_color_schemes() {  
